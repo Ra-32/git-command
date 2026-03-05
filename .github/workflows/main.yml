@@ -1,0 +1,16 @@
+name: Rahul kapade
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: greeting
+        run: echo "hello from rahul kapade"
+      
+
+
