@@ -3,4 +3,9 @@
     padding: 0%;
     background-repeat: auto blue;
     text-transform: lowercase;
+
+}
+h3{
+    resize: both;
+    text-align: center;
 }
